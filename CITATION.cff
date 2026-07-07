@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use TrustPrimingBench in your research, please cite it as below."
+authors:
+  - family-names: "Sang"
+    given-names: "JieGe"
+    orcid: ""
+title: "TrustPrimingBench: A Benchmark for Trust Priming Attacks and Prompt Injection Security in LLM Agents"
+version: 0.1.0
+date-released: 2026-07
+url: "https://github.com/SangJieGe/TrustPrimingBench"
+license: MIT
+type: software
+repository-code: "https://github.com/SangJieGe/TrustPrimingBench"
